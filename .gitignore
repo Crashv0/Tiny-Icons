@@ -1,7 +1,3 @@
 node_modules
-packed
-esdist
-backup
-version.txt
+dist
 package
-meta.json
